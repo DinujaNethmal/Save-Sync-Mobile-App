@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Team Colors -->
+    <color name="primary">#2196F3</color>  <!-- Highlight Green -->
+    <color name="primary_dark">#1976D2</color>  <!-- Dark Green -->
+    <color name="primary_light">#BBDEFB</color>  <!-- Light Green -->
+    <color name="black">#000000</color>
+    
+    <!-- Modern UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_dark">#121212</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+    
+    <!-- Category Colors -->
+    <color name="category_food">#00C853</color>
+    <color name="category_transport">#009624</color>
+    <color name="category_entertainment">#5EFC82</color>
+    <color name="category_shopping">#00C853</color>
+    <color name="category_home">#009624</color>
+    <color name="category_pets">#5EFC82</color>
+    <color name="category_other">#757575</color>
+    
+    <!-- Legacy Colors (for compatibility) -->
+    <color name="primary_blue">#00C853</color>
+    <color name="primary_orange">#009624</color>
+    
+    <!-- New colors from the code block -->
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="info">#2196F3</color>
+
+        <color name="surface_dark">#1E1E1E</color>
+        <color name="primary_dark_blue">#1976D2</color>
+        <color name="accent_dark_orange">#F57C00</color>
+        <color name="text_primary_dark">#E0E0E0</color>
+        <color name="text_secondary_dark">#B0B0B0</color>
+        <color name="expense_red_dark">#D32F2F</color>
+        <color name="income_green_dark">#388E3C</color>
+        <color name="category_food_dark">#2E7D32</color>
+        <color name="category_transport_dark">#EF6C00</color>
+        <color name="category_entertainment_dark">#FFA000</color>
+        <color name="category_shopping_dark">#C62828</color>
+        <color name="category_home_dark">#1565C0</color>
+        <color name="category_pets_dark">#558B2F</color>
+        <color name="category_other_dark">#616161</color>
+        <color name="secondary_background_dark">#0C3B2E</color> <!-- From example -->
+        <color name="highlight_brown">#B46617</color> <!-- From example -->
+        <color name="highlight_yellow">#FFBA00</color> <!-- From example -->
+
+    <!-- Primary Colors -->
+    <color name="primary_green_light">#6D9773</color>
+    <color name="primary_green_dark">#0C3B2E</color>
+    <color name="accent_brown">#B46617</color>
+    <color name="accent_yellow">#FFBA00</color>
+
+</resources>

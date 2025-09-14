@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PersonalFinances" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_blue</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorAccent">@color/primary_orange</item>
+        <item name="android:statusBarColor">@color/primary_blue</item>
+    </style>
+    <style name="SwitchTheme" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/primary_green_light</item>
+        <item name="colorControlActivated">@color/primary_green_light</item>
+        <item name="colorControlNormal">@color/divider</item>
+    </style>
+</resources>
